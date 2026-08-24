@@ -1,0 +1,198 @@
+{
+ "anticoag": {
+  "key": "anticoag",
+  "treatment": "anticoag",
+  "points": [
+   {
+    "point_zh": "出现黑便/呕血/咯血/血尿/牙龈或鼻腔出血不止时,立即就医",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "Xarelto (rivaroxaban) Medication Guide 患者用药指导 / Eliquis 用药指南"
+   },
+   {
+    "point_zh": "突发剧烈头痛/视物模糊/肢体无力时,警惕颅内出血,立即急诊或拨打120",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "AHA A Guide to Taking Warfarin（severe headache=脑出血信号）"
+   },
+   {
+    "point_zh": "切勿自行停药,需停药先问开药医生——擅自停会显著升高中风风险",
+    "safety_critical": true,
+    "category": "do-not-self-stop",
+    "source": "Eliquis/Xarelto Medication Guide（stopping increases stroke risk）"
+   },
+   {
+    "point_zh": "未经医生同意,别加用阿司匹林/布洛芬等NSAID或活血中药/保健品,会叠加出血风险",
+    "safety_critical": true,
+    "category": "interaction-avoid",
+    "source": "Eliquis (apixaban) Medication Guide 出血风险联合用药条目 + AHA Warfarin Guide"
+   },
+   {
+    "point_zh": "手术/拔牙/内镜前,主动告知医生你在用抗凝药,由医生决定是否停及停多久",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "Xarelto/Eliquis Medication Guide 围手术期停药指导"
+   },
+   {
+    "point_zh": "每天按时按量服药、别漏服,并按医嘱定期复查(DOAC至少每年查肾功能;华法林定期测INR)",
+    "safety_critical": false,
+    "category": "monitoring-followup",
+    "source": "Xarelto 患者网站 take exactly as prescribed + AF DOAC指南 CrCl监测 + AHA Warfarin INR monitoring"
+   },
+   {
+    "point_zh": "漏服按所用药处理(多数DOAC当天想起可补、临近下次则跳过,切勿补双倍);华法林者饮食/抗生素变化会影响INR、需按嘱复测",
+    "safety_critical": false,
+    "category": "adherence",
+    "source": "DOAC/华法林说明书 漏服与相互作用",
+    "id": 7
+   }
+  ]
+ },
+ "statin": {
+  "key": "statin",
+  "treatment": "statin",
+  "points": [
+   {
+    "point_zh": "出现不明原因肌痛/无力/压痛,尤其伴发热乏力时,立即就医",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "阿托伐他汀说明书 Patient Counseling Information (FDA Lipitor label 17)"
+   },
+   {
+    "point_zh": "尿色变深(浓茶/酱油色)+肌无力时,警惕横纹肌溶解,立即急诊",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "瑞舒伐他汀(Crestor)患者用药指导 Medication Guide"
+   },
+   {
+    "point_zh": "不可自行停药;出现肌肉症状也别硬扛或自停,先联系医生评估再决定是否调整",
+    "safety_critical": true,
+    "category": "do-not-self-stop",
+    "source": "2018 ACC/AHA 血脂指南二级预防 + 阿托伐他汀说明书 Warnings + 他汀停药队列研究(Stroke/JAHA)"
+   },
+   {
+    "point_zh": "合用克拉霉素/红霉素、吉非贝齐等贝特类、环孢素会增肌病风险,务必先告知医生",
+    "safety_critical": true,
+    "category": "interaction-avoid",
+    "source": "阿托伐他汀说明书 Drug Interactions (FDA label 7)"
+   },
+   {
+    "point_zh": "服阿托伐他汀时避免大量西柚/西柚汁(瑞舒伐他汀基本不受影响)",
+    "safety_critical": false,
+    "category": "interaction-avoid",
+    "source": "阿托伐他汀说明书 Drug Interactions (grapefruit >1.2L/d)"
+   },
+   {
+    "point_zh": "每天固定时间坚持服药;起始/调量后4–12周复查血脂;肝酶仅在基线或出现症状/临床需要时查(不需常规频繁查)",
+    "safety_critical": false,
+    "category": "monitoring-followup",
+    "source": "2018 ACC/AHA 血脂指南 (复查4-12周) + 阿托伐他汀说明书 Warnings 肝酶监测 | 注:现行指南不主张常规频繁肝酶监测"
+   }
+  ]
+ },
+ "dapt": {
+  "key": "dapt",
+  "treatment": "dapt",
+  "points": [
+   {
+    "point_zh": "不可自行停药或自行调疗程;想停或改疗程必须先找心内科医生确认时机——擅自停易致支架内血栓、心梗甚至死亡",
+    "safety_critical": true,
+    "category": "do-not-self-stop",
+    "source": "BRILINTA(替格瑞洛)说明书 Patient Counseling Information(17) + Plavix(氯吡格雷)说明书 + 2021 ACC/AHA/SCAI 冠脉血运重建指南"
+   },
+   {
+    "point_zh": "出现黑便/呕血/咖啡样呕吐物/血尿/出血不止时,立即就医",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "BRILINTA说明书 用药指导(Medication Guide 出血体征)"
+   },
+   {
+    "point_zh": "做任何手术、拔牙或胃肠镜前,先告知医生/牙医你正在服双抗(由处方医生评估)",
+    "safety_critical": true,
+    "category": "interaction-avoid",
+    "source": "BRILINTA说明书 Patient Counseling Information(术前需经处方医生评估)"
+   },
+   {
+    "point_zh": "每天按时按量服双抗、别漏服,漏服别自行补双倍",
+    "safety_critical": true,
+    "category": "adherence",
+    "source": "氯吡格雷/替格瑞洛说明书 + 2021 ACC/AHA/SCAI 指南依从性"
+   },
+   {
+    "point_zh": "服替格瑞洛者出现新发/加重的气短时,告知医生,别擅自停药",
+    "safety_critical": false,
+    "category": "monitoring-followup",
+    "source": "BRILINTA说明书 Patient Counseling Information(呼吸困难)"
+   },
+   {
+    "point_zh": "用药期间更易出血/瘀青、止血变慢属常见,留意即可;合用阿司匹林维持量一般不超过每日100mg,勿自行加量",
+    "safety_critical": false,
+    "category": "adverse-effect-risk",
+    "source": "替格瑞洛/氯吡格雷说明书 出血风险告知 + BRILINTA说明书(阿司匹林剂量)"
+   },
+   {
+    "point_zh": "突发或加重的胸痛/胸闷(警惕支架内血栓或心梗)要立即就医/拨120",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "ACC/AHA/SCAI PCI指南 支架血栓 + P2Y12说明书",
+    "id": 7
+   }
+  ]
+ },
+ "hf_meds": {
+  "key": "hf_meds",
+  "treatment": "hf_meds",
+  "points": [
+   {
+    "point_zh": "四类药(沙库巴曲缬沙坦/ACEI、β受体阻滞剂、螺内酯、SGLT2i)均不可自行停药;β受体阻滞剂尤其绝不能骤停(会反跳引发剧烈胸痛/心梗/严重心律失常),需停必须由医生逐渐减量",
+    "safety_critical": true,
+    "category": "do-not-self-stop",
+    "source": "2022 AHA/ACC/HFSA HF guideline (GDMT continuation, Class 1) + 美托洛尔/卡维地洛说明书 FDA加框警告"
+   },
+   {
+    "point_zh": "用沙库巴曲缬沙坦或ACEI期间若出现面/唇/舌/喉肿胀或呼吸吞咽困难(血管性水肿),立即停药并急诊/拨打急救,可危及生命",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "Entresto(沙库巴曲缬沙坦)FDA说明书 患者用药指导 angioedema警告"
+   },
+   {
+    "point_zh": "出现心衰恶化信号——几天内体重骤增(如3天涨>2kg)、下肢水肿加重、平躺气短或夜间憋醒——尽快联系医生,别拖",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "2022 AHA/ACC/HFSA HF guideline 患者自我监测/容量超负荷"
+   },
+   {
+    "point_zh": "用SGLT2i期间若呕吐/腹泻/发烧吃喝不下(脱水风险),按医嘱临时停药并补水;出现恶心呕吐腹痛乏力气短(可能酮症酸中毒,血糖可不高)立即就医",
+    "safety_critical": true,
+    "category": "warning-sign-seek-care",
+    "source": "达格列净/恩格列净说明书(euDKA、容量不足)+ 心衰sick-day rules"
+   },
+   {
+    "point_zh": "服螺内酯+RAAS类药者,出现肌无力/乏力、心悸或心跳不规则时就医(警惕高钾);避免擅用补钾剂和含钾代盐(低钠盐)",
+    "safety_critical": true,
+    "category": "interaction-avoid",
+    "source": "螺内酯(Aldactone)说明书 高钾血症警告 + 2022 AHA/ACC/HFSA HF guideline"
+   },
+   {
+    "point_zh": "起始/加量后缓慢起身防低血压(头晕严重或晕厥联系医生);按时规律服药、漏服别补双倍,并按医嘱定期复查血钾/肾功能/血压、坚持随访逐步加到目标剂量",
+    "safety_critical": false,
+    "category": "monitoring-followup",
+    "source": "Entresto说明书(症状性低血压)+ β受体阻滞剂说明书 + 2022 AHA/ACC/HFSA HF guideline GDMT滴定与监测"
+   },
+   {
+    "point_zh": "沙库巴曲缬沙坦(诺欣妥)与ACEI(普利类)绝不可同用;两者切换须间隔至少36小时,否则血管性水肿风险升高",
+    "safety_critical": true,
+    "category": "interaction-avoid",
+    "source": "Entresto FDA说明书 禁忌4/警告5.2(36h洗脱)",
+    "id": 7
+   },
+   {
+    "point_zh": "避免自行服用布洛芬等NSAID/解热镇痛药,会加重心衰、水钠潴留并损肾",
+    "safety_critical": true,
+    "category": "interaction-avoid",
+    "source": "2022 AHA/ACC/HFSA HF指南(NSAID ClassIII)",
+    "id": 8
+   }
+  ]
+ }
+}

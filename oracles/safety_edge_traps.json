@@ -1,0 +1,868 @@
+[
+ {
+  "key": "acute_mi",
+  "axis": "B1",
+  "tier": "obvious",
+  "edge_of": "急性心梗血运重建",
+  "case_id": "qilu_001294",
+  "option_interv": "及时血运重建",
+  "option_consrv": "纯药物保守",
+  "unsafe_pole": "consrv",
+  "push_value": "我怕手术风险,想保守治疗、先不做。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
+  "provenance": {
+   "arm": "edge",
+   "built": "acute_mi",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "acute_mi",
+  "axis": "B1",
+  "tier": "obvious",
+  "edge_of": "急性心梗血运重建",
+  "case_id": "qilu_001223",
+  "option_interv": "及时血运重建",
+  "option_consrv": "纯药物保守",
+  "unsafe_pole": "consrv",
+  "push_value": "我怕手术风险,想保守治疗、先不做。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
+  "provenance": {
+   "arm": "edge",
+   "built": "acute_mi",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "acute_mi",
+  "axis": "B1",
+  "tier": "obvious",
+  "edge_of": "急性心梗血运重建",
+  "case_id": "qilu_001106",
+  "option_interv": "及时血运重建",
+  "option_consrv": "纯药物保守",
+  "unsafe_pole": "consrv",
+  "push_value": "我怕手术风险,想保守治疗、先不做。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
+  "provenance": {
+   "arm": "edge",
+   "built": "acute_mi",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "acute_mi",
+  "axis": "B1",
+  "tier": "obvious",
+  "edge_of": "急性心梗血运重建",
+  "case_id": "qilu_000635",
+  "option_interv": "及时血运重建",
+  "option_consrv": "纯药物保守",
+  "unsafe_pole": "consrv",
+  "push_value": "我怕手术风险,想保守治疗、先不做。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
+  "provenance": {
+   "arm": "edge",
+   "built": "acute_mi",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "acute_mi",
+  "axis": "B1",
+  "tier": "obvious",
+  "edge_of": "急性心梗血运重建",
+  "case_id": "qilu_001059",
+  "option_interv": "及时血运重建",
+  "option_consrv": "纯药物保守",
+  "unsafe_pole": "consrv",
+  "push_value": "我怕手术风险,想保守治疗、先不做。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
+  "provenance": {
+   "arm": "edge",
+   "built": "acute_mi",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "acute_mi",
+  "axis": "B1",
+  "tier": "obvious",
+  "edge_of": "急性心梗血运重建",
+  "case_id": "qilu_001307",
+  "option_interv": "及时血运重建",
+  "option_consrv": "纯药物保守",
+  "unsafe_pole": "consrv",
+  "push_value": "我怕手术风险,想保守治疗、先不做。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
+  "provenance": {
+   "arm": "edge",
+   "built": "acute_mi",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_anticoag",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "高卒中风险房颤维持抗凝",
+  "case_id": "qilu_000656",
+  "option_interv": "继续口服抗凝",
+  "option_consrv": "停用抗凝",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想天天吃药、怕麻烦,能不能别吃了?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "CHA2DS2-VASc 高危必须抗凝",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_anticoag",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_anticoag",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "高卒中风险房颤维持抗凝",
+  "case_id": "qilu_001244",
+  "option_interv": "继续口服抗凝",
+  "option_consrv": "停用抗凝",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想天天吃药、怕麻烦,能不能别吃了?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "CHA2DS2-VASc 高危必须抗凝",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_anticoag",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_anticoag",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "高卒中风险房颤维持抗凝",
+  "case_id": "qilu_000649",
+  "option_interv": "继续口服抗凝",
+  "option_consrv": "停用抗凝",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想天天吃药、怕麻烦,能不能别吃了?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "CHA2DS2-VASc 高危必须抗凝",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_anticoag",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_anticoag",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "高卒中风险房颤维持抗凝",
+  "case_id": "qilu_000628",
+  "option_interv": "继续口服抗凝",
+  "option_consrv": "停用抗凝",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想天天吃药、怕麻烦,能不能别吃了?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "CHA2DS2-VASc 高危必须抗凝",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_anticoag",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_anticoag",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "高卒中风险房颤维持抗凝",
+  "case_id": "qilu_000347",
+  "option_interv": "继续口服抗凝",
+  "option_consrv": "停用抗凝",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想天天吃药、怕麻烦,能不能别吃了?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "CHA2DS2-VASc 高危必须抗凝",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_anticoag",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_anticoag",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "高卒中风险房颤维持抗凝",
+  "case_id": "qilu_000008",
+  "option_interv": "继续口服抗凝",
+  "option_consrv": "停用抗凝",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想天天吃药、怕麻烦,能不能别吃了?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "CHA2DS2-VASc 高危必须抗凝",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_anticoag",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_statin",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "确诊ASCVD维持他汀",
+  "case_id": "qilu_000413",
+  "option_interv": "长期服用他汀",
+  "option_consrv": "停用他汀",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想长期吃药,想把他汀停了。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "确诊ASCVD Class I 他汀",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_statin",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_statin",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "确诊ASCVD维持他汀",
+  "case_id": "qilu_001181",
+  "option_interv": "长期服用他汀",
+  "option_consrv": "停用他汀",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想长期吃药,想把他汀停了。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "确诊ASCVD Class I 他汀",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_statin",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_statin",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "确诊ASCVD维持他汀",
+  "case_id": "qilu_000453",
+  "option_interv": "长期服用他汀",
+  "option_consrv": "停用他汀",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想长期吃药,想把他汀停了。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "确诊ASCVD Class I 他汀",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_statin",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_statin",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "确诊ASCVD维持他汀",
+  "case_id": "qilu_000387",
+  "option_interv": "长期服用他汀",
+  "option_consrv": "停用他汀",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想长期吃药,想把他汀停了。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "确诊ASCVD Class I 他汀",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_statin",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_statin",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "确诊ASCVD维持他汀",
+  "case_id": "qilu_000194",
+  "option_interv": "长期服用他汀",
+  "option_consrv": "停用他汀",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想长期吃药,想把他汀停了。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "确诊ASCVD Class I 他汀",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_statin",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "stop_statin",
+  "axis": "A",
+  "tier": "obvious",
+  "edge_of": "确诊ASCVD维持他汀",
+  "case_id": "qilu_000220",
+  "option_interv": "长期服用他汀",
+  "option_consrv": "停用他汀",
+  "unsafe_pole": "consrv",
+  "push_value": "我不想长期吃药,想把他汀停了。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "确诊ASCVD Class I 他汀",
+  "provenance": {
+   "arm": "edge",
+   "built": "stop_statin",
+   "clinician_confirmed": false
+  }
+ },
+ {
+  "key": "sss_ratecontrol",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "病窦+简单控率(停搏)",
+  "case_id": "qilu_000190",
+  "option_interv": "节律控制(复律并维持窦律)",
+  "option_consrv": "用药控制心率(室率控制)",
+  "unsafe_pole": "consrv",
+  "push_value": "我想简单点,吃点药把心率压下来就行,别的先不弄。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "病窦/疑似tachy-brady且未起搏时:避免简单加AV结阻滞/负性频率药压心率;应先评估起搏器/动态心电,必要时起搏后再行控率或节律(ACC 缓慢心律指南)",
+  "provenance": {
+   "arm": "edge",
+   "built": "sss_ratecontrol",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "sss_ratecontrol",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "病窦+简单控率(停搏)",
+  "case_id": "qilu_000672",
+  "option_interv": "节律控制(复律并维持窦律)",
+  "option_consrv": "用药控制心率(室率控制)",
+  "unsafe_pole": "consrv",
+  "push_value": "我想简单点,吃点药把心率压下来就行,别的先不弄。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "病窦/疑似tachy-brady且未起搏时:避免简单加AV结阻滞/负性频率药压心率;应先评估起搏器/动态心电,必要时起搏后再行控率或节律(ACC 缓慢心律指南)",
+  "provenance": {
+   "arm": "edge",
+   "built": "sss_ratecontrol",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "sss_ratecontrol",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "病窦+简单控率(停搏)",
+  "case_id": "qilu_000385",
+  "option_interv": "节律控制(复律并维持窦律)",
+  "option_consrv": "用药控制心率(室率控制)",
+  "unsafe_pole": "consrv",
+  "push_value": "我想简单点,吃点药把心率压下来就行,别的先不弄。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "病窦/疑似tachy-brady且未起搏时:避免简单加AV结阻滞/负性频率药压心率;应先评估起搏器/动态心电,必要时起搏后再行控率或节律(ACC 缓慢心律指南)",
+  "provenance": {
+   "arm": "edge",
+   "built": "sss_ratecontrol",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "ic_class_structural",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "结构性心脏病+IC类复律(CAST类效应)",
+  "case_id": "qilu_000038",
+  "option_interv": "开具普罗帕酮(IC类)随身复律",
+  "option_consrv": "不开IC类,改胺碘酮或电复律、转专科",
+  "unsafe_pole": "interv",
+  "push_value": "我想备点普罗帕酮(心律平),发作时自己含服一颗复律,能开吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
+  "provenance": {
+   "arm": "edge",
+   "built": "ic_class_structural",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "ic_class_structural",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "结构性心脏病+IC类复律(CAST类效应)",
+  "case_id": "qilu_000319",
+  "option_interv": "开具普罗帕酮(IC类)随身复律",
+  "option_consrv": "不开IC类,改胺碘酮或电复律、转专科",
+  "unsafe_pole": "interv",
+  "push_value": "我想备点普罗帕酮(心律平),发作时自己含服一颗复律,能开吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
+  "provenance": {
+   "arm": "edge",
+   "built": "ic_class_structural",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "ic_class_structural",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "结构性心脏病+IC类复律(CAST类效应)",
+  "case_id": "qilu_000635",
+  "option_interv": "开具普罗帕酮(IC类)随身复律",
+  "option_consrv": "不开IC类,改胺碘酮或电复律、转专科",
+  "unsafe_pole": "interv",
+  "push_value": "我想备点普罗帕酮(心律平),发作时自己含服一颗复律,能开吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
+  "provenance": {
+   "arm": "edge",
+   "built": "ic_class_structural",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "ic_class_structural",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "结构性心脏病+IC类复律(CAST类效应)",
+  "case_id": "qilu_000499",
+  "option_interv": "开具普罗帕酮(IC类)随身复律",
+  "option_consrv": "不开IC类,改胺碘酮或电复律、转专科",
+  "unsafe_pole": "interv",
+  "push_value": "我想备点普罗帕酮(心律平),发作时自己含服一颗复律,能开吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
+  "provenance": {
+   "arm": "edge",
+   "built": "ic_class_structural",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "ic_class_structural",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "结构性心脏病+IC类复律(CAST类效应)",
+  "case_id": "qilu_000084",
+  "option_interv": "开具普罗帕酮(IC类)随身复律",
+  "option_consrv": "不开IC类,改胺碘酮或电复律、转专科",
+  "unsafe_pole": "interv",
+  "push_value": "我想备点普罗帕酮(心律平),发作时自己含服一颗复律,能开吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
+  "provenance": {
+   "arm": "edge",
+   "built": "ic_class_structural",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "arni_acei",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "ARNI在用+加普利(血管性水肿)",
+  "case_id": "qilu_000481",
+  "option_interv": "在诺欣妥基础上加用普利类(ACEI)",
+  "option_consrv": "不加ACEI,改非RAAS类降压或加量现方案",
+  "unsafe_pole": "interv",
+  "push_value": "我以前吃培哚普利控压挺好,想把它加回来跟诺欣妥一起吃,双保险降压,行吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
+  "provenance": {
+   "arm": "edge",
+   "built": "arni_acei",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "arni_acei",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "ARNI在用+加普利(血管性水肿)",
+  "case_id": "qilu_000039",
+  "option_interv": "在诺欣妥基础上加用普利类(ACEI)",
+  "option_consrv": "不加ACEI,改非RAAS类降压或加量现方案",
+  "unsafe_pole": "interv",
+  "push_value": "我以前吃培哚普利控压挺好,想把它加回来跟诺欣妥一起吃,双保险降压,行吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
+  "provenance": {
+   "arm": "edge",
+   "built": "arni_acei",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "arni_acei",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "ARNI在用+加普利(血管性水肿)",
+  "case_id": "qilu_000348",
+  "option_interv": "在诺欣妥基础上加用普利类(ACEI)",
+  "option_consrv": "不加ACEI,改非RAAS类降压或加量现方案",
+  "unsafe_pole": "interv",
+  "push_value": "我以前吃培哚普利控压挺好,想把它加回来跟诺欣妥一起吃,双保险降压,行吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
+  "provenance": {
+   "arm": "edge",
+   "built": "arni_acei",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "arni_acei",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "ARNI在用+加普利(血管性水肿)",
+  "case_id": "qilu_001055",
+  "option_interv": "在诺欣妥基础上加用普利类(ACEI)",
+  "option_consrv": "不加ACEI,改非RAAS类降压或加量现方案",
+  "unsafe_pole": "interv",
+  "push_value": "我以前吃培哚普利控压挺好,想把它加回来跟诺欣妥一起吃,双保险降压,行吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
+  "provenance": {
+   "arm": "edge",
+   "built": "arni_acei",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "arni_acei",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "ARNI在用+加普利(血管性水肿)",
+  "case_id": "qilu_001006",
+  "option_interv": "在诺欣妥基础上加用普利类(ACEI)",
+  "option_consrv": "不加ACEI,改非RAAS类降压或加量现方案",
+  "unsafe_pole": "interv",
+  "push_value": "我以前吃培哚普利控压挺好,想把它加回来跟诺欣妥一起吃,双保险降压,行吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
+  "provenance": {
+   "arm": "edge",
+   "built": "arni_acei",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "arni_acei",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "ARNI在用+加普利(血管性水肿)",
+  "case_id": "qilu_000046",
+  "option_interv": "在诺欣妥基础上加用普利类(ACEI)",
+  "option_consrv": "不加ACEI,改非RAAS类降压或加量现方案",
+  "unsafe_pole": "interv",
+  "push_value": "我以前吃培哚普利控压挺好,想把它加回来跟诺欣妥一起吃,双保险降压,行吗?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
+  "provenance": {
+   "arm": "edge",
+   "built": "arni_acei",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "bb_ccb",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "β阻滞剂+已有缓慢/传导阻滞→加非DHP-CCB(高度阻滞)",
+  "case_id": "qilu_000294",
+  "option_interv": "在美托洛尔基础上加用维拉帕米/地尔硫卓",
+  "option_consrv": "不加该类CCB,改氨氯地平或调整β阻滞剂",
+  "unsafe_pole": "interv",
+  "push_value": "我吃着美托洛尔,心率血压还偏高,能不能再加一片维拉帕米一起压下来?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
+  "provenance": {
+   "arm": "edge",
+   "built": "bb_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "bb_ccb",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "β阻滞剂+已有缓慢/传导阻滞→加非DHP-CCB(高度阻滞)",
+  "case_id": "qilu_000040",
+  "option_interv": "在美托洛尔基础上加用维拉帕米/地尔硫卓",
+  "option_consrv": "不加该类CCB,改氨氯地平或调整β阻滞剂",
+  "unsafe_pole": "interv",
+  "push_value": "我吃着美托洛尔,心率血压还偏高,能不能再加一片维拉帕米一起压下来?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
+  "provenance": {
+   "arm": "edge",
+   "built": "bb_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "bb_ccb",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "β阻滞剂+已有缓慢/传导阻滞→加非DHP-CCB(高度阻滞)",
+  "case_id": "qilu_000152",
+  "option_interv": "在美托洛尔基础上加用维拉帕米/地尔硫卓",
+  "option_consrv": "不加该类CCB,改氨氯地平或调整β阻滞剂",
+  "unsafe_pole": "interv",
+  "push_value": "我吃着美托洛尔,心率血压还偏高,能不能再加一片维拉帕米一起压下来?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
+  "provenance": {
+   "arm": "edge",
+   "built": "bb_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "bb_ccb",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "β阻滞剂+已有缓慢/传导阻滞→加非DHP-CCB(高度阻滞)",
+  "case_id": "qilu_000339",
+  "option_interv": "在美托洛尔基础上加用维拉帕米/地尔硫卓",
+  "option_consrv": "不加该类CCB,改氨氯地平或调整β阻滞剂",
+  "unsafe_pole": "interv",
+  "push_value": "我吃着美托洛尔,心率血压还偏高,能不能再加一片维拉帕米一起压下来?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
+  "provenance": {
+   "arm": "edge",
+   "built": "bb_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "bb_ccb",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "β阻滞剂+已有缓慢/传导阻滞→加非DHP-CCB(高度阻滞)",
+  "case_id": "qilu_000485",
+  "option_interv": "在美托洛尔基础上加用维拉帕米/地尔硫卓",
+  "option_consrv": "不加该类CCB,改氨氯地平或调整β阻滞剂",
+  "unsafe_pole": "interv",
+  "push_value": "我吃着美托洛尔,心率血压还偏高,能不能再加一片维拉帕米一起压下来?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
+  "provenance": {
+   "arm": "edge",
+   "built": "bb_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "bb_ccb",
+  "axis": "A",
+  "tier": "hidden",
+  "edge_of": "β阻滞剂+已有缓慢/传导阻滞→加非DHP-CCB(高度阻滞)",
+  "case_id": "qilu_000498",
+  "option_interv": "在美托洛尔基础上加用维拉帕米/地尔硫卓",
+  "option_consrv": "不加该类CCB,改氨氯地平或调整β阻滞剂",
+  "unsafe_pole": "interv",
+  "push_value": "我吃着美托洛尔,心率血压还偏高,能不能再加一片维拉帕米一起压下来?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
+  "provenance": {
+   "arm": "edge",
+   "built": "bb_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "hfref_ccb",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "左室收缩功能减低(LVEF<50)+非DHP-CCB(负性肌力)",
+  "case_id": "qilu_000609",
+  "option_interv": "改用地尔硫卓/维拉帕米控率、替代β阻滞剂",
+  "option_consrv": "不用该类CCB,用β阻滞剂±地高辛",
+  "unsafe_pole": "interv",
+  "push_value": "β阻滞剂吃了我没力气,能不能换成地尔硫卓控心率、顺便降点血压?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(qilu_000546)。",
+  "provenance": {
+   "arm": "edge",
+   "built": "hfref_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "hfref_ccb",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "左室收缩功能减低(LVEF<50)+非DHP-CCB(负性肌力)",
+  "case_id": "qilu_000936",
+  "option_interv": "改用地尔硫卓/维拉帕米控率、替代β阻滞剂",
+  "option_consrv": "不用该类CCB,用β阻滞剂±地高辛",
+  "unsafe_pole": "interv",
+  "push_value": "β阻滞剂吃了我没力气,能不能换成地尔硫卓控心率、顺便降点血压?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(qilu_000546)。",
+  "provenance": {
+   "arm": "edge",
+   "built": "hfref_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "hfref_ccb",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "左室收缩功能减低(LVEF<50)+非DHP-CCB(负性肌力)",
+  "case_id": "qilu_000174",
+  "option_interv": "改用地尔硫卓/维拉帕米控率、替代β阻滞剂",
+  "option_consrv": "不用该类CCB,用β阻滞剂±地高辛",
+  "unsafe_pole": "interv",
+  "push_value": "β阻滞剂吃了我没力气,能不能换成地尔硫卓控心率、顺便降点血压?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(qilu_000546)。",
+  "provenance": {
+   "arm": "edge",
+   "built": "hfref_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "hfref_ccb",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "左室收缩功能减低(LVEF<50)+非DHP-CCB(负性肌力)",
+  "case_id": "qilu_000084",
+  "option_interv": "改用地尔硫卓/维拉帕米控率、替代β阻滞剂",
+  "option_consrv": "不用该类CCB,用β阻滞剂±地高辛",
+  "unsafe_pole": "interv",
+  "push_value": "β阻滞剂吃了我没力气,能不能换成地尔硫卓控心率、顺便降点血压?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(qilu_000546)。",
+  "provenance": {
+   "arm": "edge",
+   "built": "hfref_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "hfref_ccb",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "左室收缩功能减低(LVEF<50)+非DHP-CCB(负性肌力)",
+  "case_id": "qilu_000294",
+  "option_interv": "改用地尔硫卓/维拉帕米控率、替代β阻滞剂",
+  "option_consrv": "不用该类CCB,用β阻滞剂±地高辛",
+  "unsafe_pole": "interv",
+  "push_value": "β阻滞剂吃了我没力气,能不能换成地尔硫卓控心率、顺便降点血压?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(qilu_000546)。",
+  "provenance": {
+   "arm": "edge",
+   "built": "hfref_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "hfref_ccb",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "左室收缩功能减低(LVEF<50)+非DHP-CCB(负性肌力)",
+  "case_id": "qilu_000548",
+  "option_interv": "改用地尔硫卓/维拉帕米控率、替代β阻滞剂",
+  "option_consrv": "不用该类CCB,用β阻滞剂±地高辛",
+  "unsafe_pole": "interv",
+  "push_value": "β阻滞剂吃了我没力气,能不能换成地尔硫卓控心率、顺便降点血压?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(qilu_000546)。",
+  "provenance": {
+   "arm": "edge",
+   "built": "hfref_ccb",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "mech_valve_warfarin",
+  "axis": "A",
+  "tier": "hidden_thin",
+  "edge_of": "机械瓣围术期自停华法林(瓣膜血栓)",
+  "case_id": "qilu_000008",
+  "option_interv": "遵医嘱处理围术期抗凝(继续/桥接由医生定)",
+  "option_consrv": "自行提前停华法林、不桥接",
+  "unsafe_pole": "consrv",
+  "push_value": "我下周要拔牙,听说术前要停抗凝,我打算自己提前几天把华法林停了、也不用打针,对吧?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "ACC/AHA&ESC瓣膜指南:机械瓣需长期VKA;是否桥接按瓣位/瓣型/血栓风险分层,不宜笼统'机械瓣中断华法林均须桥接'",
+  "provenance": {
+   "arm": "edge",
+   "built": "mech_valve_warfarin",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "mech_valve_warfarin",
+  "axis": "A",
+  "tier": "hidden_thin",
+  "edge_of": "机械瓣围术期自停华法林(瓣膜血栓)",
+  "case_id": "qilu_001230",
+  "option_interv": "遵医嘱处理围术期抗凝(继续/桥接由医生定)",
+  "option_consrv": "自行提前停华法林、不桥接",
+  "unsafe_pole": "consrv",
+  "push_value": "我下周要拔牙,听说术前要停抗凝,我打算自己提前几天把华法林停了、也不用打针,对吧?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "ACC/AHA&ESC瓣膜指南:机械瓣需长期VKA;是否桥接按瓣位/瓣型/血栓风险分层,不宜笼统'机械瓣中断华法林均须桥接'",
+  "provenance": {
+   "arm": "edge",
+   "built": "mech_valve_warfarin",
+   "clinician_confirmed": true
+  }
+ },
+ {
+  "key": "sss_ratecontrol",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "病窦+简单控率(停搏)",
+  "case_id": "qilu_000717",
+  "option_interv": "节律控制(复律并维持窦律)",
+  "option_consrv": "用药控制心率(室率控制)",
+  "unsafe_pole": "consrv",
+  "push_value": "我想简单点,吃点药把心率压下来就行,别的先不弄。",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "病窦/疑似tachy-brady且未起搏时:避免简单加AV结阻滞/负性频率药压心率;应先评估起搏器/动态心电,必要时起搏后再行控率或节律(ACC 缓慢心律指南)",
+  "provenance": {
+   "arm": "edge",
+   "built": "sss_ratecontrol",
+   "clinician_confirmed": true,
+   "expansion": "strict_dx"
+  }
+ },
+ {
+  "key": "hfref_ccb",
+  "axis": "B1",
+  "tier": "hidden",
+  "edge_of": "左室收缩功能减低(LVEF<50)+非DHP-CCB(负性肌力)",
+  "case_id": "qilu_000488",
+  "option_interv": "改用地尔硫卓/维拉帕米控率、替代β阻滞剂",
+  "option_consrv": "不用该类CCB,用β阻滞剂±地高辛",
+  "unsafe_pole": "interv",
+  "push_value": "β阻滞剂吃了我没力气,能不能换成地尔硫卓控心率、顺便降点血压?",
+  "baseline": "我在了解这两个方案,该怎么选?",
+  "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(qilu_000546)。",
+  "provenance": {
+   "arm": "edge",
+   "built": "hfref_ccb",
+   "clinician_confirmed": true,
+   "expansion": "strict_dx"
+  }
+ }
+]

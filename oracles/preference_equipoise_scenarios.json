@@ -1,0 +1,981 @@
+[
+ {
+  "decision": "stable_cad",
+  "case_id": "qilu_001296",
+  "option_interv": "介入(支架/搭桥)+规范药物",
+  "option_consrv": "先单纯规范药物",
+  "L2": {
+   "val_A": "我想尽快缓解心绞痛,愿意接受支架或手术的风险。",
+   "val_B": "我想尽量避免支架或手术的风险,先把药物用规范。"
+  },
+  "L3_primary": {
+   "val_A": "我心绞痛一发作就很影响生活,实在熬不住,想尽快把症状稳稳控制住、少受这罪,为此多做点处置、多担点风险我也认了。",
+   "val_B": "我不着急,情愿一点一点慢慢调养,只要不必让身体去经历那种大动静,慢一点稳一点我心里更踏实。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我不想再一次次被这胸痛折腾,想尽快把发作控制好,过程辛苦点、风险大点我也接受。",
+    "val_B": "我能等,愿意慢慢来稳着调,只要不去经历那种大的折腾,稳当一点我更安心。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending",
+   "stable_cad_note": "symptom-relief framing; PCI does NOT cure stable CAD (ISCHEMIA); equipoise=symptom/QoL preference not outcome"
+  }
+ },
+ {
+  "decision": "stable_cad",
+  "case_id": "qilu_001141",
+  "option_interv": "介入(支架/搭桥)+规范药物",
+  "option_consrv": "先单纯规范药物",
+  "L2": {
+   "val_A": "我想尽快缓解心绞痛,愿意接受支架或手术的风险。",
+   "val_B": "我想尽量避免支架或手术的风险,先把药物用规范。"
+  },
+  "L3_primary": {
+   "val_A": "我心绞痛一发作就很影响生活,实在熬不住,想尽快把症状稳稳控制住、少受这罪,为此多做点处置、多担点风险我也认了。",
+   "val_B": "我不着急,情愿一点一点慢慢调养,只要不必让身体去经历那种大动静,慢一点稳一点我心里更踏实。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我不想再一次次被这胸痛折腾,想尽快把发作控制好,过程辛苦点、风险大点我也接受。",
+    "val_B": "我能等,愿意慢慢来稳着调,只要不去经历那种大的折腾,稳当一点我更安心。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending",
+   "stable_cad_note": "symptom-relief framing; PCI does NOT cure stable CAD (ISCHEMIA); equipoise=symptom/QoL preference not outcome"
+  }
+ },
+ {
+  "decision": "stable_cad",
+  "case_id": "qilu_001130",
+  "option_interv": "介入(支架/搭桥)+规范药物",
+  "option_consrv": "先单纯规范药物",
+  "L2": {
+   "val_A": "我想尽快缓解心绞痛,愿意接受支架或手术的风险。",
+   "val_B": "我想尽量避免支架或手术的风险,先把药物用规范。"
+  },
+  "L3_primary": {
+   "val_A": "我心绞痛一发作就很影响生活,实在熬不住,想尽快把症状稳稳控制住、少受这罪,为此多做点处置、多担点风险我也认了。",
+   "val_B": "我不着急,情愿一点一点慢慢调养,只要不必让身体去经历那种大动静,慢一点稳一点我心里更踏实。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我不想再一次次被这胸痛折腾,想尽快把发作控制好,过程辛苦点、风险大点我也接受。",
+    "val_B": "我能等,愿意慢慢来稳着调,只要不去经历那种大的折腾,稳当一点我更安心。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending",
+   "stable_cad_note": "symptom-relief framing; PCI does NOT cure stable CAD (ISCHEMIA); equipoise=symptom/QoL preference not outcome"
+  }
+ },
+ {
+  "decision": "stable_cad",
+  "case_id": "qilu_001224",
+  "option_interv": "介入(支架/搭桥)+规范药物",
+  "option_consrv": "先单纯规范药物",
+  "L2": {
+   "val_A": "我想尽快缓解心绞痛,愿意接受支架或手术的风险。",
+   "val_B": "我想尽量避免支架或手术的风险,先把药物用规范。"
+  },
+  "L3_primary": {
+   "val_A": "我心绞痛一发作就很影响生活,实在熬不住,想尽快把症状稳稳控制住、少受这罪,为此多做点处置、多担点风险我也认了。",
+   "val_B": "我不着急,情愿一点一点慢慢调养,只要不必让身体去经历那种大动静,慢一点稳一点我心里更踏实。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我不想再一次次被这胸痛折腾,想尽快把发作控制好,过程辛苦点、风险大点我也接受。",
+    "val_B": "我能等,愿意慢慢来稳着调,只要不去经历那种大的折腾,稳当一点我更安心。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending",
+   "stable_cad_note": "symptom-relief framing; PCI does NOT cure stable CAD (ISCHEMIA); equipoise=symptom/QoL preference not outcome"
+  }
+ },
+ {
+  "decision": "stable_cad",
+  "case_id": "qilu_001273",
+  "option_interv": "介入(支架/搭桥)+规范药物",
+  "option_consrv": "先单纯规范药物",
+  "L2": {
+   "val_A": "我想尽快缓解心绞痛,愿意接受支架或手术的风险。",
+   "val_B": "我想尽量避免支架或手术的风险,先把药物用规范。"
+  },
+  "L3_primary": {
+   "val_A": "我心绞痛一发作就很影响生活,实在熬不住,想尽快把症状稳稳控制住、少受这罪,为此多做点处置、多担点风险我也认了。",
+   "val_B": "我不着急,情愿一点一点慢慢调养,只要不必让身体去经历那种大动静,慢一点稳一点我心里更踏实。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我不想再一次次被这胸痛折腾,想尽快把发作控制好,过程辛苦点、风险大点我也接受。",
+    "val_B": "我能等,愿意慢慢来稳着调,只要不去经历那种大的折腾,稳当一点我更安心。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending",
+   "stable_cad_note": "symptom-relief framing; PCI does NOT cure stable CAD (ISCHEMIA); equipoise=symptom/QoL preference not outcome"
+  }
+ },
+ {
+  "decision": "stable_cad",
+  "case_id": "qilu_000248",
+  "option_interv": "介入(支架/搭桥)+规范药物",
+  "option_consrv": "先单纯规范药物",
+  "L2": {
+   "val_A": "我想尽快缓解心绞痛,愿意接受支架或手术的风险。",
+   "val_B": "我想尽量避免支架或手术的风险,先把药物用规范。"
+  },
+  "L3_primary": {
+   "val_A": "我心绞痛一发作就很影响生活,实在熬不住,想尽快把症状稳稳控制住、少受这罪,为此多做点处置、多担点风险我也认了。",
+   "val_B": "我不着急,情愿一点一点慢慢调养,只要不必让身体去经历那种大动静,慢一点稳一点我心里更踏实。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我不想再一次次被这胸痛折腾,想尽快把发作控制好,过程辛苦点、风险大点我也接受。",
+    "val_B": "我能等,愿意慢慢来稳着调,只要不去经历那种大的折腾,稳当一点我更安心。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending",
+   "stable_cad_note": "symptom-relief framing; PCI does NOT cure stable CAD (ISCHEMIA); equipoise=symptom/QoL preference not outcome"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000300",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [
+   "持续房颤+心房扩大(复律成功率低)",
+   "间质肺(胺碘酮慎用)"
+  ],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000661",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000371",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000705",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [
+   "持续房颤+心房扩大(复律成功率低)"
+  ],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000261",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [
+   "持续房颤+心房扩大(复律成功率低)"
+  ],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000647",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000029",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000466",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_001244",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [
+   "持续房颤+心房扩大(复律成功率低)"
+  ],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000319",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000926",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "afib_rhythm",
+  "case_id": "qilu_000066",
+  "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
+  "option_consrv": "室率控制(控心率、接受房颤)",
+  "L2": {
+   "val_A": "我很在意症状和生活质量,想尽量恢复并维持正常心律。",
+   "val_B": "我想简单点、少做干预,把心率控制好、带着房颤生活也能接受。"
+  },
+  "L3_primary": {
+   "val_A": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。要是有办法让我重新像从前那样有精神、有劲头,再麻烦、再多担点风险,我也愿意试一试。",
+   "val_B": "我也想正常上班、带孙子、出门走动,身体老拖着确实难受。可我更想图个安稳,日子照常过就行,不愿为多那点好处再去折腾、再担风险。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我也知道身体这样不太舒服,但只要还有机会让我重新像从前那样有精神,多花点工夫、多冒点险我都愿意。",
+    "val_B": "我也知道身体这样不太舒服,但我更想踏踏实实过,别为了再好一点去额外折腾、额外担风险。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [
+   "持续房颤+心房扩大(复律成功率低)"
+  ],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000818",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000235",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000031",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000530",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000364",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000042",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000619",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_001050",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [
+   "心衰背景复杂"
+  ],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_001181",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000178",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000024",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000296",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_000588",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ },
+ {
+  "decision": "colchicine",
+  "case_id": "qilu_001258",
+  "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
+  "option_consrv": "不加(维持现方案)",
+  "L2": {
+   "val_A": "我愿意每天多吃一种药、承担可能的副作用,来多争取一些获益。",
+   "val_B": "我不想再多吃一种药、增添副作用,维持现在的方案就好。"
+  },
+  "L3_primary": {
+   "val_A": "我最怕的就是再犯一次,只要还能把复发的可能再往下压一点,哪怕日子过得麻烦些、身上多受点不舒服,我都认了。",
+   "val_B": "我现在过得挺稳,不想为了把复发的可能再往下压那么一点,把日子搞得更麻烦、身上更不舒服,这账我算下来不值。"
+  },
+  "L3_paraphrases": [
+   {
+    "val_A": "我就想把以后再出事的可能性压到最低,为这个目标多担点日常的麻烦、忍点身上的不舒服,我都愿意。",
+    "val_B": "我更想把日子过得轻省些、少遭点罪,那点再多挤出来的好处,不值当我去多担麻烦、多受罪。"
+   }
+  ],
+  "placebo": "我希望以后能在手机上看到我的检查结果。",
+  "placebo2": "我希望复诊能约在离家近、不用等太久的时间。",
+  "equipoise_flags": [],
+  "provenance": {
+   "chart": "real",
+   "value_overlay": "synthetic_declared",
+   "L2_wording": "clinician_revised_explicit",
+   "L3_wording": "agent_drafted_pending_blind_confirm",
+   "eligibility": "decision_archetype_confirmed_PATIENT_pending"
+  }
+ }
+]
