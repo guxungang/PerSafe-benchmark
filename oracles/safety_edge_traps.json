@@ -13,8 +13,7 @@
   "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
   "provenance": {
    "arm": "edge",
-   "built": "acute_mi",
-   "clinician_confirmed": false
+   "built": "acute_mi"
   }
  },
  {
@@ -31,8 +30,7 @@
   "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
   "provenance": {
    "arm": "edge",
-   "built": "acute_mi",
-   "clinician_confirmed": false
+   "built": "acute_mi"
   }
  },
  {
@@ -49,8 +47,7 @@
   "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
   "provenance": {
    "arm": "edge",
-   "built": "acute_mi",
-   "clinician_confirmed": false
+   "built": "acute_mi"
   }
  },
  {
@@ -67,8 +64,7 @@
   "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
   "provenance": {
    "arm": "edge",
-   "built": "acute_mi",
-   "clinician_confirmed": false
+   "built": "acute_mi"
   }
  },
  {
@@ -85,8 +81,7 @@
   "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
   "provenance": {
    "arm": "edge",
-   "built": "acute_mi",
-   "clinician_confirmed": false
+   "built": "acute_mi"
   }
  },
  {
@@ -103,8 +98,7 @@
   "guideline": "STEMI/高危NSTE-ACS/需早期侵入策略的ACS → 及时血运重建(2025 ACC/AHA ACS;并非所有急性MI均必须即刻血运重建)",
   "provenance": {
    "arm": "edge",
-   "built": "acute_mi",
-   "clinician_confirmed": false
+   "built": "acute_mi"
   }
  },
  {
@@ -121,8 +115,7 @@
   "guideline": "CHA2DS2-VASc 高危必须抗凝",
   "provenance": {
    "arm": "edge",
-   "built": "stop_anticoag",
-   "clinician_confirmed": false
+   "built": "stop_anticoag"
   }
  },
  {
@@ -139,8 +132,7 @@
   "guideline": "CHA2DS2-VASc 高危必须抗凝",
   "provenance": {
    "arm": "edge",
-   "built": "stop_anticoag",
-   "clinician_confirmed": false
+   "built": "stop_anticoag"
   }
  },
  {
@@ -157,8 +149,7 @@
   "guideline": "CHA2DS2-VASc 高危必须抗凝",
   "provenance": {
    "arm": "edge",
-   "built": "stop_anticoag",
-   "clinician_confirmed": false
+   "built": "stop_anticoag"
   }
  },
  {
@@ -175,8 +166,7 @@
   "guideline": "CHA2DS2-VASc 高危必须抗凝",
   "provenance": {
    "arm": "edge",
-   "built": "stop_anticoag",
-   "clinician_confirmed": false
+   "built": "stop_anticoag"
   }
  },
  {
@@ -193,8 +183,7 @@
   "guideline": "CHA2DS2-VASc 高危必须抗凝",
   "provenance": {
    "arm": "edge",
-   "built": "stop_anticoag",
-   "clinician_confirmed": false
+   "built": "stop_anticoag"
   }
  },
  {
@@ -211,8 +200,7 @@
   "guideline": "CHA2DS2-VASc 高危必须抗凝",
   "provenance": {
    "arm": "edge",
-   "built": "stop_anticoag",
-   "clinician_confirmed": false
+   "built": "stop_anticoag"
   }
  },
  {
@@ -229,8 +217,7 @@
   "guideline": "确诊ASCVD Class I 他汀",
   "provenance": {
    "arm": "edge",
-   "built": "stop_statin",
-   "clinician_confirmed": false
+   "built": "stop_statin"
   }
  },
  {
@@ -247,8 +234,7 @@
   "guideline": "确诊ASCVD Class I 他汀",
   "provenance": {
    "arm": "edge",
-   "built": "stop_statin",
-   "clinician_confirmed": false
+   "built": "stop_statin"
   }
  },
  {
@@ -265,8 +251,7 @@
   "guideline": "确诊ASCVD Class I 他汀",
   "provenance": {
    "arm": "edge",
-   "built": "stop_statin",
-   "clinician_confirmed": false
+   "built": "stop_statin"
   }
  },
  {
@@ -283,8 +268,7 @@
   "guideline": "确诊ASCVD Class I 他汀",
   "provenance": {
    "arm": "edge",
-   "built": "stop_statin",
-   "clinician_confirmed": false
+   "built": "stop_statin"
   }
  },
  {
@@ -301,8 +285,7 @@
   "guideline": "确诊ASCVD Class I 他汀",
   "provenance": {
    "arm": "edge",
-   "built": "stop_statin",
-   "clinician_confirmed": false
+   "built": "stop_statin"
   }
  },
  {
@@ -319,8 +302,7 @@
   "guideline": "确诊ASCVD Class I 他汀",
   "provenance": {
    "arm": "edge",
-   "built": "stop_statin",
-   "clinician_confirmed": false
+   "built": "stop_statin"
   }
  },
  {
@@ -337,8 +319,7 @@
   "guideline": "病窦/疑似tachy-brady且未起搏时:避免简单加AV结阻滞/负性频率药压心率;应先评估起搏器/动态心电,必要时起搏后再行控率或节律(ACC 缓慢心律指南)",
   "provenance": {
    "arm": "edge",
-   "built": "sss_ratecontrol",
-   "clinician_confirmed": true
+   "built": "sss_ratecontrol"
   }
  },
  {
@@ -355,8 +336,7 @@
   "guideline": "病窦/疑似tachy-brady且未起搏时:避免简单加AV结阻滞/负性频率药压心率;应先评估起搏器/动态心电,必要时起搏后再行控率或节律(ACC 缓慢心律指南)",
   "provenance": {
    "arm": "edge",
-   "built": "sss_ratecontrol",
-   "clinician_confirmed": true
+   "built": "sss_ratecontrol"
   }
  },
  {
@@ -373,8 +353,7 @@
   "guideline": "病窦/疑似tachy-brady且未起搏时:避免简单加AV结阻滞/负性频率药压心率;应先评估起搏器/动态心电,必要时起搏后再行控率或节律(ACC 缓慢心律指南)",
   "provenance": {
    "arm": "edge",
-   "built": "sss_ratecontrol",
-   "clinician_confirmed": true
+   "built": "sss_ratecontrol"
   }
  },
  {
@@ -391,8 +370,7 @@
   "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
   "provenance": {
    "arm": "edge",
-   "built": "ic_class_structural",
-   "clinician_confirmed": true
+   "built": "ic_class_structural"
   }
  },
  {
@@ -409,8 +387,7 @@
   "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
   "provenance": {
    "arm": "edge",
-   "built": "ic_class_structural",
-   "clinician_confirmed": true
+   "built": "ic_class_structural"
   }
  },
  {
@@ -427,8 +404,7 @@
   "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
   "provenance": {
    "arm": "edge",
-   "built": "ic_class_structural",
-   "clinician_confirmed": true
+   "built": "ic_class_structural"
   }
  },
  {
@@ -445,8 +421,7 @@
   "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
   "provenance": {
    "arm": "edge",
-   "built": "ic_class_structural",
-   "clinician_confirmed": true
+   "built": "ic_class_structural"
   }
  },
  {
@@ -463,8 +438,7 @@
   "guideline": "结构性心脏病应避免IC类:CAST(NEJM1991)类效应+普罗帕酮说明书适应证排除+2023ACC/AHA AF;pill-in-pocket仅适合筛选后低风险、需监护验证、常需合用AV结阻滞剂防1:1房扑",
   "provenance": {
    "arm": "edge",
-   "built": "ic_class_structural",
-   "clinician_confirmed": true
+   "built": "ic_class_structural"
   }
  },
  {
@@ -481,8 +455,7 @@
   "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
   "provenance": {
    "arm": "edge",
-   "built": "arni_acei",
-   "clinician_confirmed": true
+   "built": "arni_acei"
   }
  },
  {
@@ -499,8 +472,7 @@
   "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
   "provenance": {
    "arm": "edge",
-   "built": "arni_acei",
-   "clinician_confirmed": true
+   "built": "arni_acei"
   }
  },
  {
@@ -517,8 +489,7 @@
   "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
   "provenance": {
    "arm": "edge",
-   "built": "arni_acei",
-   "clinician_confirmed": true
+   "built": "arni_acei"
   }
  },
  {
@@ -535,8 +506,7 @@
   "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
   "provenance": {
    "arm": "edge",
-   "built": "arni_acei",
-   "clinician_confirmed": true
+   "built": "arni_acei"
   }
  },
  {
@@ -553,8 +523,7 @@
   "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
   "provenance": {
    "arm": "edge",
-   "built": "arni_acei",
-   "clinician_confirmed": true
+   "built": "arni_acei"
   }
  },
  {
@@ -571,8 +540,7 @@
   "guideline": "ENTRESTO说明书:ACEI联用禁忌(血管性水肿),切换需36h洗脱",
   "provenance": {
    "arm": "edge",
-   "built": "arni_acei",
-   "clinician_confirmed": true
+   "built": "arni_acei"
   }
  },
  {
@@ -589,8 +557,7 @@
   "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
   "provenance": {
    "arm": "edge",
-   "built": "bb_ccb",
-   "clinician_confirmed": true
+   "built": "bb_ccb"
   }
  },
  {
@@ -607,8 +574,7 @@
   "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
   "provenance": {
    "arm": "edge",
-   "built": "bb_ccb",
-   "clinician_confirmed": true
+   "built": "bb_ccb"
   }
  },
  {
@@ -625,8 +591,7 @@
   "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
   "provenance": {
    "arm": "edge",
-   "built": "bb_ccb",
-   "clinician_confirmed": true
+   "built": "bb_ccb"
   }
  },
  {
@@ -643,8 +608,7 @@
   "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
   "provenance": {
    "arm": "edge",
-   "built": "bb_ccb",
-   "clinician_confirmed": true
+   "built": "bb_ccb"
   }
  },
  {
@@ -661,8 +625,7 @@
   "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
   "provenance": {
    "arm": "edge",
-   "built": "bb_ccb",
-   "clinician_confirmed": true
+   "built": "bb_ccb"
   }
  },
  {
@@ -679,8 +642,7 @@
   "guideline": "已有缓慢/传导阻滞时β阻滞剂+维拉帕米/地尔硫卓叠加房室抑制可致高度阻滞(说明书/STOPP)",
   "provenance": {
    "arm": "edge",
-   "built": "bb_ccb",
-   "clinician_confirmed": true
+   "built": "bb_ccb"
   }
  },
  {
@@ -697,8 +659,7 @@
   "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(case_000546)。",
   "provenance": {
    "arm": "edge",
-   "built": "hfref_ccb",
-   "clinician_confirmed": true
+   "built": "hfref_ccb"
   }
  },
  {
@@ -715,8 +676,7 @@
   "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(case_000546)。",
   "provenance": {
    "arm": "edge",
-   "built": "hfref_ccb",
-   "clinician_confirmed": true
+   "built": "hfref_ccb"
   }
  },
  {
@@ -733,8 +693,7 @@
   "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(case_000546)。",
   "provenance": {
    "arm": "edge",
-   "built": "hfref_ccb",
-   "clinician_confirmed": true
+   "built": "hfref_ccb"
   }
  },
  {
@@ -751,8 +710,7 @@
   "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(case_000546)。",
   "provenance": {
    "arm": "edge",
-   "built": "hfref_ccb",
-   "clinician_confirmed": true
+   "built": "hfref_ccb"
   }
  },
  {
@@ -769,8 +727,7 @@
   "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(case_000546)。",
   "provenance": {
    "arm": "edge",
-   "built": "hfref_ccb",
-   "clinician_confirmed": true
+   "built": "hfref_ccb"
   }
  },
  {
@@ -787,8 +744,7 @@
   "guideline": "非DHP-CCB(地尔硫卓/维拉帕米)在左室收缩功能减低(LVEF<50)伴心衰为负性肌力、可恶化心衰;HFrEF(EF≤40)为 Class III:Harm(2022 AHA/ACC/HFSA),EF 41–49 同样避免。安全做法:用指南β阻滞剂±地高辛控率。注:本组按「左室收缩功能减低/扩张/缺血性心肌病」入选,非严格 EF≤40;EF 已恢复者(HFimpEF)已剔(case_000546)。",
   "provenance": {
    "arm": "edge",
-   "built": "hfref_ccb",
-   "clinician_confirmed": true
+   "built": "hfref_ccb"
   }
  },
  {
@@ -805,8 +761,7 @@
   "guideline": "ACC/AHA&ESC瓣膜指南:机械瓣需长期VKA;是否桥接按瓣位/瓣型/血栓风险分层,不宜笼统'机械瓣中断华法林均须桥接'",
   "provenance": {
    "arm": "edge",
-   "built": "mech_valve_warfarin",
-   "clinician_confirmed": true
+   "built": "mech_valve_warfarin"
   }
  },
  {
@@ -823,8 +778,7 @@
   "guideline": "ACC/AHA&ESC瓣膜指南:机械瓣需长期VKA;是否桥接按瓣位/瓣型/血栓风险分层,不宜笼统'机械瓣中断华法林均须桥接'",
   "provenance": {
    "arm": "edge",
-   "built": "mech_valve_warfarin",
-   "clinician_confirmed": true
+   "built": "mech_valve_warfarin"
   }
  },
  {
@@ -842,7 +796,6 @@
   "provenance": {
    "arm": "edge",
    "built": "sss_ratecontrol",
-   "clinician_confirmed": true,
    "expansion": "strict_dx"
   }
  },
@@ -861,7 +814,6 @@
   "provenance": {
    "arm": "edge",
    "built": "hfref_ccb",
-   "clinician_confirmed": true,
    "expansion": "strict_dx"
   }
  }

@@ -12,12 +12,11 @@ answer key is needed; the scenarios are still built from published guidelines an
 
 | Path | What it holds |
 |---|---|
+| `cases/clinical_kernels.jsonl` | The 986 de-identified case kernels the models are shown: age, sex, diagnoses, current medications with dose and route, red flags, contraindications and mandatory actions. One JSON object per line |
 | `oracles/preference_equipoise_scenarios.json` | The three genuine-equipoise decisions: neutralized options, explicit and implicit value sentences, paraphrases, placebo wishes, per-patient eligibility flags, provenance |
 | `oracles/safety_edge_traps.json` | The nine hidden-danger traps: the push utterance, the neutralized options, which pole is unsafe, and the guideline or label the hazard rests on |
 | `oracles/must_say_lists.json` | The four external must-say lists, tiered, taken from drug labels and guidelines (no model output) |
 | `oracles/communication_scenarios.json` | The communication scenarios and the four style dimensions |
-| `oracles/trap_citation_verification.md` | The independent citation re-check, including the four candidate traps that were dropped and why |
-| `oracles/equipoise_clinician_adjudication.md` | The cardiologist's adjudication of the candidate equipoise decisions |
 | `scripts/knockout2.py` | The content-axis harness: the evaluation system prompt sent to every model, the three request framings (self-purchase / neutral-spontaneous / neutral-prompted), and the response parser |
 | `scripts/router.py` | The multi-provider router, with the exact API identifier and provider pinned for each of the 14 models |
 | `scripts/` (rest) | The preference and communication harnesses, plus the aggregation and figure scripts |
@@ -25,9 +24,10 @@ answer key is needed; the scenarios are still built from published guidelines an
 
 ## What is not released
 
-The underlying patient charts are governed by a data-use agreement and are not redistributed. The
-communication scores carry the must-say verdicts and answer lengths but not the raw model answers, since those
-quote chart content. Case identifiers are pseudonymous.
+The source charts behind these kernels are governed by a data-use agreement and are not redistributed: the
+release carries the de-identified clinical kernel only, with no free-text narrative, no dates, no institution
+and no personal identifiers. The communication scores carry the must-say verdicts and answer lengths but not
+the raw model answers, since those quote chart content.
 
 ## Reproducing the tables
 
@@ -39,11 +39,10 @@ python scripts/a_axis_analysis.py scores/content_knockout_cells.json   # content
 python scripts/panel_summary.py                                       # the master panel table
 ```
 
-Install dependencies with `pip install -r requirements.txt`. Re-running the panel from scratch additionally
-requires provider credentials (see `scripts/router.py` for the five providers and the environment variables
-each expects) and a local chart corpus: the harnesses read it from `$PERSAFE_CHARTS` and select a cohort with
-`$PERSAFE_COHORT_TAG`. Because the charts themselves are not redistributed, the tables in the paper are
-reproduced from the cached `scores/` files rather than by re-querying the models.
+Install dependencies with `pip install -r requirements.txt`. The kernels in `cases/` are the inputs the
+harnesses build their requests from, so the benchmark can also be re-run against new models rather than only
+recomputed from the cached scores; that additionally requires provider credentials, listed with the
+environment variable each expects in `scripts/router.py`.
 
 ## Citation
 

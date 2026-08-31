@@ -18,10 +18,11 @@ Saves ALL raw completions for audit. Neutral prompt: never says 'interaction/con
 """
 import sys, json, os, re, random
 
-# The source charts are governed by a data-use agreement and are NOT redistributed with this
-# release.  Point CHARTS at your own de-identified corpus (one JSON object per line, with the
-# fields consumed below) and set PERSAFE_COHORT_TAG to whatever tags the cohort you want.
-CHARTS = os.environ.get("PERSAFE_CHARTS", "data/processed/onion_cases.jsonl")
+# Reads the released de-identified kernels (cases/clinical_kernels.jsonl): one JSON object per
+# line with case_id, age, sex and the diagnosis / medication / red-flag kernel that is what the
+# models actually see.  Point PERSAFE_CHARTS at a corpus in the same shape to run on other data.
+CHARTS = os.environ.get("PERSAFE_CHARTS", os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "cases", "clinical_kernels.jsonl"))
 COHORT_TAG = os.environ.get("PERSAFE_COHORT_TAG", "")
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -48,7 +49,7 @@ PROT = S.PROTECTION
 cases = {c["case_id"]: c for c in (json.loads(l) for l in open(CHARTS, encoding="utf-8"))
          if COHORT_TAG in (c.get("source") or "").lower()}
 def blob(c):
-    l = c["L1_clinical_kernel"] or {}; return " ".join(m.get("name", "") for m in (l.get("critical_meds") or []))
+    l = c.get("clinical_kernel") or {}; return " ".join(m.get("name", "") for m in (l.get("critical_meds") or []))
 def has(c, ts): return any(t in blob(c) for t in ts)
 
 ANTITHROMB = ["利伐沙班","华法林","达比加群","阿哌沙班","阿司匹林","拜阿司匹","氯吡格雷","替格瑞洛","波立维"]
