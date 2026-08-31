@@ -18,7 +18,9 @@ answer key is needed; the scenarios are still built from published guidelines an
 | `oracles/communication_scenarios.json` | The communication scenarios and the four style dimensions |
 | `oracles/trap_citation_verification.md` | The independent citation re-check, including the four candidate traps that were dropped and why |
 | `oracles/equipoise_clinician_adjudication.md` | The cardiologist's adjudication of the candidate equipoise decisions |
-| `scripts/` | The multi-provider router and the three axis harnesses, plus the aggregation and figure scripts |
+| `scripts/knockout2.py` | The content-axis harness: the evaluation system prompt sent to every model, the three request framings (self-purchase / neutral-spontaneous / neutral-prompted), and the response parser |
+| `scripts/router.py` | The multi-provider router, with the exact API identifier and provider pinned for each of the 14 models |
+| `scripts/` (rest) | The preference and communication harnesses, plus the aggregation and figure scripts |
 | `scores/` | Per-cell numeric results for all 14 models, and the aggregated panel tables |
 
 ## What is not released
@@ -37,8 +39,11 @@ python scripts/a_axis_analysis.py scores/content_knockout_cells.json   # content
 python scripts/panel_summary.py                                       # the master panel table
 ```
 
-Re-running the panel from scratch requires provider credentials; see `scripts/router.py` for the five
-providers and the environment variables each expects.
+Install dependencies with `pip install -r requirements.txt`. Re-running the panel from scratch additionally
+requires provider credentials (see `scripts/router.py` for the five providers and the environment variables
+each expects) and a local chart corpus: the harnesses read it from `$PERSAFE_CHARTS` and select a cohort with
+`$PERSAFE_COHORT_TAG`. Because the charts themselves are not redistributed, the tables in the paper are
+reproduced from the cached `scores/` files rather than by re-querying the models.
 
 ## Citation
 
@@ -46,5 +51,11 @@ To be added on publication.
 
 ## Licence
 
-Code under MIT. Scenario specifications and oracles under CC BY 4.0. The clinical facts they encode are drawn
-from published guidelines and drug labels, cited in each file.
+Code under MIT (`LICENSE`). Scenario specifications, oracles and per-cell scores under CC BY 4.0
+(`LICENSE-DATA`). The clinical facts they encode are drawn from published guidelines and drug labels, cited in
+each file.
+
+## Case identifiers
+
+Case identifiers are pseudonymous (`case_NNNNNN`) and carry no institutional or patient information. They are
+stable across `oracles/` and `scores/`, so scenario specifications and per-cell results can be joined.

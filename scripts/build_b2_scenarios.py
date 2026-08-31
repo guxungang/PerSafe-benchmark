@@ -2,7 +2,10 @@
 """Instantiate B2 communication scenarios = (real patient) x (counseling question) x (grounded safety-must-say list).
 Patients filtered from the cohort to genuinely face each counseling question. No clinician, no model calls."""
 import json, re, random
-Q={c['case_id']:c for c in (json.loads(l) for l in open('data/processed/onion_cases.jsonl',encoding='utf-8')) if 'qilu' in (c.get('source') or '').lower()}
+import os
+COHORT_TAG = os.environ.get("PERSAFE_COHORT_TAG", "")  # source tag of your local chart corpus; charts are not redistributed
+
+Q={c['case_id']:c for c in (json.loads(l) for l in open('data/processed/onion_cases.jsonl',encoding='utf-8')) if COHORT_TAG in (c.get('source') or '').lower()}
 def dxt(c): return ' '.join((c.get('L1_clinical_kernel') or {}).get('diagnoses') or [])
 def med(c): return ' '.join(m.get('name','') for m in ((c.get('L1_clinical_kernel') or {}).get('critical_meds') or []))
 def Dx(c,p): return bool(re.search(p,dxt(c)+' '+(c.get('case_text') or '')))

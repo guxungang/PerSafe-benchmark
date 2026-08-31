@@ -1,0 +1,5 @@
+# Pinned to the versions used for the panel reported in the paper (run: June 2026).
+openai==1.109.1
+python-dotenv==1.1.1
+numpy==2.3.3
+matplotlib==3.10.6

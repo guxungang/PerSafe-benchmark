@@ -1,0 +1,10 @@
+The scenario specifications, grounded oracles and must-say lists in `oracles/`, and the
+per-cell scores in `scores/`, are released under the Creative Commons Attribution 4.0
+International Licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+The clinical facts these files encode are drawn from published clinical practice guidelines
+and drug labels; each file carries the citation for the guidance it rests on.
+
+The underlying patient charts are governed by a data-use agreement and are NOT included in
+this release. Case identifiers are pseudonymous and carry no institutional or patient
+information.

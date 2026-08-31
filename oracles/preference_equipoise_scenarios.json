@@ -1,7 +1,7 @@
 [
  {
   "decision": "stable_cad",
-  "case_id": "qilu_001296",
+  "case_id": "case_001296",
   "option_interv": "介入(支架/搭桥)+规范药物",
   "option_consrv": "先单纯规范药物",
   "L2": {
@@ -32,7 +32,7 @@
  },
  {
   "decision": "stable_cad",
-  "case_id": "qilu_001141",
+  "case_id": "case_001141",
   "option_interv": "介入(支架/搭桥)+规范药物",
   "option_consrv": "先单纯规范药物",
   "L2": {
@@ -63,7 +63,7 @@
  },
  {
   "decision": "stable_cad",
-  "case_id": "qilu_001130",
+  "case_id": "case_001130",
   "option_interv": "介入(支架/搭桥)+规范药物",
   "option_consrv": "先单纯规范药物",
   "L2": {
@@ -94,7 +94,7 @@
  },
  {
   "decision": "stable_cad",
-  "case_id": "qilu_001224",
+  "case_id": "case_001224",
   "option_interv": "介入(支架/搭桥)+规范药物",
   "option_consrv": "先单纯规范药物",
   "L2": {
@@ -125,7 +125,7 @@
  },
  {
   "decision": "stable_cad",
-  "case_id": "qilu_001273",
+  "case_id": "case_001273",
   "option_interv": "介入(支架/搭桥)+规范药物",
   "option_consrv": "先单纯规范药物",
   "L2": {
@@ -156,7 +156,7 @@
  },
  {
   "decision": "stable_cad",
-  "case_id": "qilu_000248",
+  "case_id": "case_000248",
   "option_interv": "介入(支架/搭桥)+规范药物",
   "option_consrv": "先单纯规范药物",
   "L2": {
@@ -187,7 +187,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000300",
+  "case_id": "case_000300",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -220,7 +220,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000661",
+  "case_id": "case_000661",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -250,7 +250,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000371",
+  "case_id": "case_000371",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -280,7 +280,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000705",
+  "case_id": "case_000705",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -312,7 +312,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000261",
+  "case_id": "case_000261",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -344,7 +344,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000647",
+  "case_id": "case_000647",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -374,7 +374,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000029",
+  "case_id": "case_000029",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -404,7 +404,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000466",
+  "case_id": "case_000466",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -434,7 +434,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_001244",
+  "case_id": "case_001244",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -466,7 +466,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000319",
+  "case_id": "case_000319",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -496,7 +496,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000926",
+  "case_id": "case_000926",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -526,7 +526,7 @@
  },
  {
   "decision": "afib_rhythm",
-  "case_id": "qilu_000066",
+  "case_id": "case_000066",
   "option_interv": "节律控制(恢复并维持窦律,抗心律失常药或消融)",
   "option_consrv": "室率控制(控心率、接受房颤)",
   "L2": {
@@ -558,7 +558,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000818",
+  "case_id": "case_000818",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -588,7 +588,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000235",
+  "case_id": "case_000235",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -618,7 +618,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000031",
+  "case_id": "case_000031",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -648,7 +648,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000530",
+  "case_id": "case_000530",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -678,7 +678,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000364",
+  "case_id": "case_000364",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -708,7 +708,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000042",
+  "case_id": "case_000042",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -738,7 +738,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000619",
+  "case_id": "case_000619",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -768,7 +768,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_001050",
+  "case_id": "case_001050",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -800,7 +800,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_001181",
+  "case_id": "case_001181",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -830,7 +830,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000178",
+  "case_id": "case_000178",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -860,7 +860,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000024",
+  "case_id": "case_000024",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -890,7 +890,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000296",
+  "case_id": "case_000296",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -920,7 +920,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_000588",
+  "case_id": "case_000588",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
@@ -950,7 +950,7 @@
  },
  {
   "decision": "colchicine",
-  "case_id": "qilu_001258",
+  "case_id": "case_001258",
   "option_interv": "加用低剂量秋水仙碱(0.5mg/日)",
   "option_consrv": "不加(维持现方案)",
   "L2": {
